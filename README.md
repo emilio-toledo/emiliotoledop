@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Emilio Toledo
+- 👀 I’m interested in computer science as a whole but leaning into web development and machine learning.
+- 🌱 I’m currently learning ux design.
